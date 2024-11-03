@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joel Machango.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Machango.
 =====================================================================================================================================
 
 
@@ -7,7 +7,7 @@ Software Engineer
 
 I am a Front-end Developer with 6+ years of experience. I have honed my skills in the full Software Development Lifecycle (SDLC) from planning and design to implementation, testing, deployment, and maintenance within the Agile model. I specialize in building high-quality, scalable web and mobile software solutions. I have a deep understanding of modern web development technologies, including Angular, Ionic, JavaScript, Figma/AdobeXD, Cypress, and GraphQL. My experience and knowledge in these areas allow me to create robust and efficient solutions that meet and exceed user expectations.
 
-✉️  You can contact me at [joelmachango@gmail.com](mailto:joelmachango@gmail.com)
+✉️  You can contact me at [machangonjoroge@gmail.com](mailto:machangonjoroge@gmail.com)
 
 ### Skills
 
