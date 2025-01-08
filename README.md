@@ -9,7 +9,7 @@ I am a Front-end Developer with 6+ years of experience. I have honed my skills i
 
 ✉️  You can contact me at [joelmachango@gmail.com](mailto:joelmachango@gmail.com)
 
-### Skills
+### Skills:
 
 
 <p align="left">
